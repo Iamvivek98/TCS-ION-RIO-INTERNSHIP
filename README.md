@@ -1,5 +1,5 @@
 # TCS-ION-RIO-INTERNSHIP
-# Forecasting System for Product Demand at a Retail Outlet
+# Forecasting System - Project Demand of Products at a Retail Outlet Based on Historical Data
 
 ## Project Overview
 This project aims to develop a demand forecasting system for a retail outlet using time series analysis on historical sales data. The system predicts future demand for various product categories (furniture, technology, and office supplies) to help the store optimize its inventory management and sales strategy. The models used include ARIMA, SARIMA, and Facebook Prophet.
